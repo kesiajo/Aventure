@@ -22,10 +22,6 @@ body {
     width: 100%;
 }
 
-.navbar:hover {
-    background-color: #241571;
-}
-
 .nav {
     flex: 1;
 }
