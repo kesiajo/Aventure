@@ -27,7 +27,7 @@ body {
 }
 
 .navbar:hover {
-    background-color: #555;
+    opacity: 0.5;
 }
 
 .nav {
